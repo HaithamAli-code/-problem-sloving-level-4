@@ -1,4 +1,4 @@
-// 
+//Write a program that takes a year and a month number as input and prints the calendar for that month. The calendar should be displayed in a format similar to the one shown below, where the first day of the month is correctly aligned with the corresponding day of the week. The program should also account for leap years when determining the number of days in February. 
 #include<iostream>
 #include<string>
 using namespace std;

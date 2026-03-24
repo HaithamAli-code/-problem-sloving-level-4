@@ -1,4 +1,4 @@
-// Leap Year(One Line Of Code)
+// 4. Write a program that reads a year from the user and calculates the number of days, hours, minutes, and seconds in that year. Consider leap years in your calculations.
 #include<iostream>
 using namespace std;
 

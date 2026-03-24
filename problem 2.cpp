@@ -1,4 +1,4 @@
-//
+// This program determines if a given year is a leap year or not.
 #include<iostream>
 using namespace std;
 
